@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listProvince">
+        <item>Chọn địa điểm...</item>
+        <item>Sa Pa</item>
+        <item>Sơn La</item>
+        <item>Nam Định</item>
+        <item>Thanh Hóa</item>
+        <item>Vinh</item>
+        <item>Hà Tĩnh</item>
+        <item>Quãng Ngãi</item>
+        <item>Bình Định</item>
+        <item>Phú Yên</item>
+        <item>Buôn Mê Thuột</item>
+        <item>Gia Lai</item>
+        <item>Huế</item>
+        <item>Phan Thiết</item>
+        <item>Đồng Nai</item>
+        <item>Nha Trang</item>
+        <item>Vũng Tàu</item>
+        <item>Tp. Mỹ Tho</item>
+        <item>Bến Tre</item>
+        <item>Trà Vinh</item>
+        <item>Tây Ninh</item>
+        <item>Sóc Trăng</item>
+        <item>Cà Mau</item>
+    </string-array>
+</resources>
